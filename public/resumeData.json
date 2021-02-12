@@ -1,0 +1,88 @@
+{
+  "main": {
+    "name": "Raihan Akter",
+    "description": "Full Stack Developer software developer",
+    "image": "profile.jpg",
+    "bio": "My name is Raihan, I'm a Full Stack Developer.",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "raihanakter26@gmail.com",
+    "phone": "(929) 393 7610",
+    "address": {
+      "street": "Main Street",
+      "city": "Kansas City",
+      "state": "MO",
+      "zip": "64112"
+    },
+    "website": "?",
+    "resumedownload": "https://drive.google.com/file/d/1e7KYzERcnvJGRvIwIu37ASYDUAv20kxw/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/raihan-akter91",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/RaihanAkter1203",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "95%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "95%"
+      },
+      {
+        "name": "HTML , CSS, BootStrap",
+        "level": "90%"
+      },
+      {
+        "name": "MySQL, MongoDB, IndexDB",
+        "level": "100%"
+      },
+      {
+        "name": "APIs",
+        "level": "80%"
+      },
+      {
+        "name": "PWA, MERN, State, MVC",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Leave a Note",
+        "category": "Built on MVC",
+        "image": "leaveAnote.JPG",
+        "url": "https: //github.com/BenjDG/Leave_A_Note"
+      },
+      {
+        "title": "Air Care",
+        "category": "Used Server side API",
+        "image": "aircare.JPG",
+        "url": "https://github.com/timothykemp/aircare"
+      },
+      {
+        "title": "Eat Burger",
+        "category": "Node Express Handlebers",
+        "image": "application.PNG",
+        "url": "https://github.com/RaihanAkter03/NodeExpressHandlebars-EatBurger"
+      },
+      {
+        "title": "Weaather Dashboard" ,
+        "category": "Server Side APIs",
+        "image": "weatherdashboard.GIF",
+        "url": "https://github.com/RaihanAkter03/Server-Side-APIs-Weather-Dashboard"
+      }
+    ]
+  }
+}
