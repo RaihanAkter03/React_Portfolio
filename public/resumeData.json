@@ -3,7 +3,7 @@
     "name": "Raihan Akter",
     "description": "Full Stack Developer.",
     "image": "profile.jpg",
-    "bio": "My name is raihan, I'm a Full Stack software Developer.",
+    "bio": "My name is Raihan, I'm a Full Stack software Developer.",
     "contactmessage": "Get in touch with me to receive further details.",
     "email": "raihanakter26@gmail.com",
     "phone": "+1 929 393 7610",
@@ -13,27 +13,17 @@
       "state": "MO",
       "zip": "64112"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "https://github.com/RaihanAkter03",
+    "resumedownload": "https://drive.google.com/file/d/1oloUyyK5JnMbwPXviznYjk1MlpQ0l2-a/view?usp=sharing",
     "social": [
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/nazariy1995",
-        "className": "fa fa-facebook"
-      },
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/nazariydumanskyy/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/nazdumanskyy/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "https://github.com/Nazariy995",
+        "url": "https://github.com/RaihanAkter03",
         "className": "fa fa-github"
       }
     ]
