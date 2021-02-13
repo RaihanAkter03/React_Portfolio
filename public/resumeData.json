@@ -78,16 +78,22 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Zoom Clone with NodeJS",
-        "category": "Zoom Clone built with NodeJS",
-        "image": "zoom.jpg",
-        "url": "https://www.youtube.com/watch?v=ZVznzY7EjuY"
+        "title": "Leave A Note",
+        "category": "Built on MySQL and MVC",
+        "image": "leaveanote",
+        "url": "https://project-leave-a-note.herokuapp.com/"
       },
       {
-        "title": "Robinhood Clone",
-        "category": "Robinhood Clone built with ReactJS",
-        "image": "robinhood.jpg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "Air Care",
+        "category": "Built on server side API",
+        "image": "air.JPG",
+        "url": "https://timothykemp.dev/aircare"
+      },
+      {
+        "title": "Eat Burger",
+        "category": "Node express handlebars",
+        "image": "application.PNG",
+        "url": "https://boiling-crag-28497.herokuapp.com/"
       }
     ]
   },
