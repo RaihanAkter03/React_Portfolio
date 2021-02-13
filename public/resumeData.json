@@ -58,19 +58,19 @@
         "level": "100%"
       },
       {
-        "name": "Python",
+        "name": "JavaScript",
         "level": "95%"
       },
       {
-        "name": "Git",
-        "level": "75%"
+        "name": "MySQL, MOngoDB, IndexDB",
+        "level": "90%"
       },
       {
-        "name": "JavaScript",
-        "level": "100%"
+        "name": "MVC, PWA, State",
+        "level": "85%"
       },
       {
-        "name": "MongoDB",
+        "name": "MERN",
         "level": "80%"
       }
     ]
