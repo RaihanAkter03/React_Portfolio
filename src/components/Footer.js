@@ -1,38 +1,29 @@
-import React, { Component } from 'react';
+import React  from 'react';
+import { Navbar } from 'react-bootstrap';
+import styled from 'styled-components';
 
-class Footer extends Component {
-  render() {
 
-    if(this.props.data){
-      var networks= this.props.data.social.map(function(network){
-        return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
-      })
-    }
-
-    return (
-      <footer>
-
-     <div className="row">
-        <div className="twelve columns">
-           <ul className="social-links">
-              {networks}
-           </ul>
-
-           <ul>
-            <li>Modified with love by the Clever Programmer team ♥️</li>
-           </ul>
-
-           <ul className="copyright">
-              <li>&copy; All credit goes to Tim Baker - Copyright 2017 Tim Baker</li>
-              <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>
-           </ul>
-
-        </div>
-        <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open"></i></a></div>
-     </div>
-  </footer>
-    );
+const Styles = styled.div`
+.navbar {
+    background-color: #222;
   }
-}
+.navbar-brand {
+    color: #bbb;
+    font-size: 10px;
+    text-align:center;
+    float:none;
 
-export default Footer;
+    &:hover {
+      color: white;
+    }
+  }
+`;
+
+
+export const Footer = () => (
+    <Styles>
+        <Navbar fixed="bottom">        
+            <Navbar.Brand >Raihan akter &copy; 2020</Navbar.Brand>   
+        </Navbar>
+    </Styles>
+  )
