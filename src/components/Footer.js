@@ -23,7 +23,7 @@ const Styles = styled.div`
 export const Footer = () => (
     <Styles>
         <Navbar fixed="bottom">        
-            <Navbar.Brand >Raihan akter &copy; 2020</Navbar.Brand>   
+            <Navbar.Brand >Raihan Akter &copy; 2020</Navbar.Brand>   
         </Navbar>
     </Styles>
   )
