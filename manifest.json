@@ -1,0 +1,50 @@
+{
+  "short_name": "React Portfolio",
+  "name": "Robert Fronczak Portfolio",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "assets/images/bfronz.jpeg",
+      "type": "image/jpeg",
+      "sizes": "640x640"
+    },
+    {
+      "src": "assets/projects/project-burger.png",
+      "type": "image/png",
+      "sizes": "640x640"
+    },
+    {
+      "src": "assets/projects/project-codequiz.png",
+      "type": "image/png",
+      "sizes": "640x640"
+    },
+    {
+      "src": "assets/projects/project-flipcards.png",
+      "type": "image/png",
+      "sizes": "640x640"
+    },
+    {
+      "src": "assets/projects/project-weatherdashboard.png",
+      "type": "image/png",
+      "sizes": "640x640"
+    },
+    {
+      "src": "assets/projects/project-hipgrandpa.png",
+      "type": "image/png",
+      "sizes": "640x640"
+    },
+    {
+      "src": "assets/projects/project-workdayscheduler.png",
+      "type": "image/png",
+      "sizes": "640x640"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

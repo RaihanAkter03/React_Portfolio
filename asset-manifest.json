@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RaihanAkter03/React_Portfolio/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/RaihanAkter03/React_Portfolio/static/js/main.6e7d841b.chunk.js",
+    "main.js.map": "/RaihanAkter03/React_Portfolio/static/js/main.6e7d841b.chunk.js.map",
+    "runtime-main.js": "/RaihanAkter03/React_Portfolio/static/js/runtime-main.6ce53423.js",
+    "runtime-main.js.map": "/RaihanAkter03/React_Portfolio/static/js/runtime-main.6ce53423.js.map",
+    "static/js/2.0e9c2b2a.chunk.js": "/RaihanAkter03/React_Portfolio/static/js/2.0e9c2b2a.chunk.js",
+    "static/js/2.0e9c2b2a.chunk.js.map": "/RaihanAkter03/React_Portfolio/static/js/2.0e9c2b2a.chunk.js.map",
+    "index.html": "/RaihanAkter03/React_Portfolio/index.html",
+    "precache-manifest.6a80422e15e33a7e11cdc298334cea29.js": "/RaihanAkter03/React_Portfolio/precache-manifest.6a80422e15e33a7e11cdc298334cea29.js",
+    "service-worker.js": "/RaihanAkter03/React_Portfolio/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/RaihanAkter03/React_Portfolio/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.0e9c2b2a.chunk.js.LICENSE.txt": "/RaihanAkter03/React_Portfolio/static/js/2.0e9c2b2a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ce53423.js",
+    "static/js/2.0e9c2b2a.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.6e7d841b.chunk.js"
+  ]
+}
