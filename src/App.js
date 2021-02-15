@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import { Home } from './Home';
 import { Contact } from './Contact';
 import { Portfolio } from './Portfolio';
-import { NoMatch } from './NoMatch';
+// import { NoMatch } from './NoMatch';
 import { Layout } from  './components/Layout';
 import { NavigationBar } from './components/NavigationBar';
 import { Jumbotron }  from  './components/Jumbotron'
@@ -22,7 +22,7 @@ class  App extends Component {
                 <Route exact path = "/" component = {Home} />
                 <Route path = "/portfolio" component = {Portfolio} />
                 <Route path = "/contact" component = {Contact} />    
-                <Route component = {NoMatch} />
+                {/* <Route component = {NoMatch} /> */}
               </Switch>         
           </Layout>
           <Footer />

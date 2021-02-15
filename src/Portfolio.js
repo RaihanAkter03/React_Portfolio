@@ -1,6 +1,11 @@
 import React from "react";
 import { Card, CardColumns } from 'react-bootstrap';
-
+import air from './assets/images/air.JPG'
+import leaveanote from './assets/images/leaveanote.JPG'
+import burger from './assets/images/application.PNG'
+import notetaker from './assets/images/note1.PNG'
+import weather from './assets/images/weatherdashboard.GIF'
+import workout from './assets/images/app1.PNG'
 
 
 export const Portfolio = () => (
@@ -8,7 +13,7 @@ export const Portfolio = () => (
   <CardColumns>
 
     <Card>
-      <Card.Img variant="top" src="../assets/images/air.jpg" height="180px" width="180px" />
+      <Card.Img variant="top" src={air} height="180px" width="180px" />
       <Card.Body>
         <Card.Title>Air Care</Card.Title>
         <Card.Text>
@@ -20,7 +25,7 @@ export const Portfolio = () => (
     </Card>
 
     <Card>
-      <Card.Img variant="top" src="../assets/images/leaveanote.jpg" height="170px" width="180px" />
+      <Card.Img variant="top" src={leaveanote} height="170px" width="180px" />
       <Card.Body>
         <Card.Title>Leave a Note</Card.Title>
         <Card.Text>
@@ -31,7 +36,7 @@ export const Portfolio = () => (
     </Card>
 
     <Card>
-      <Card.Img variant="top" src="../assets/images/application.PNG" height="180px" width="180px" />
+      <Card.Img variant="top" src={burger} height="180px" width="180px" />
       <Card.Body>
         <Card.Title>Eat Burger</Card.Title>
         <Card.Text>
@@ -42,7 +47,7 @@ export const Portfolio = () => (
     </Card>
 
     <Card className="pb-4">
-      <Card.Img variant="top" src="../assets/images/note1.PNG" height="193px" width="180px" />
+      <Card.Img variant="top" src={notetaker} height="193px" width="180px" />
       <Card.Body>
         <Card.Title>Express Note Taker</Card.Title>
         <Card.Text>
@@ -54,7 +59,7 @@ export const Portfolio = () => (
 
 
     <Card>
-      <Card.Img variant="top" src="../assets/images/weatherdashboard.GIF" height="154px" width="180px" />
+      <Card.Img variant="top" src={weather} height="154px" width="180px" />
       <Card.Body>
         <Card.Title>Weather Dashboard</Card.Title>
         <Card.Text>
@@ -66,7 +71,7 @@ export const Portfolio = () => (
 
 
     <Card>
-      <Card.Img variant="top" src="../assets/images/app1.PNG" height="170px" width="180px" />
+      <Card.Img variant="top" src={workout} height="170px" width="180px" />
       <Card.Body>
         <Card.Title>Workout Tracker</Card.Title>
         <Card.Text>
