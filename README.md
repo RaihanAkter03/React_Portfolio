@@ -1,8 +1,7 @@
 ## React Portfolio
 
-GitHub Repo:
-https://github.com/RaihanAkter03/React_Portfolio
-Heroku URL : https://stormy-ocean-81333.herokuapp.com/
+* GitHub Repo: https://github.com/RaihanAkter03/React_Portfolio
+* Heroku URL : https://stormy-ocean-81333.herokuapp.com/
 
 
 ## Built With
