@@ -6,6 +6,7 @@ import burger from './assets/images/application.PNG'
 import notetaker from './assets/images/note1.PNG'
 import weather from './assets/images/weatherdashboard.GIF'
 import workout from './assets/images/app1.PNG'
+import schedule from './assets/images/app.GIF'
 
 
 export const Portfolio = () => (
@@ -82,7 +83,16 @@ export const Portfolio = () => (
       </Card.Body>
     </Card>
 
-
+    <Card>
+      <Card.Img variant="top" src={schedule} height="170px" width="180px" />
+      <Card.Body>
+        <Card.Title>Work Day Schedule</Card.Title>
+        <Card.Text>
+          Work Day Schedule is a application built with Javascript where user will be able to add there schedule on time to time manner. if time passed color will changed as gray. User will able to exit the schedule and save it and color will be green. Current schedule will be on red colored.
+      </Card.Text>
+        <Card.Link href="https://github.com/RaihanAkter03/Third-Party-APIs-Work-Day-Scheduler"><i class="fas fa-external-link-alt"></i>Find out more</Card.Link>
+      </Card.Body>
+    </Card>
   </CardColumns>
 
 

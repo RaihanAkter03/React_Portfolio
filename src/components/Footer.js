@@ -9,7 +9,7 @@ const Styles = styled.div`
   }
 .navbar-brand {
     color: #bbb;
-    font-size: 10px;
+    font-size: 15px;
     text-align:center;
     float:none;
 
